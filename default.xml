@@ -6,7 +6,7 @@
            review="codeaurora.org"/>
   
 <default   remote="caf"
-           revision="refs/tags/LA.UM.7.6.r1-04300-89xx.0"
+           revision="refs/tags/LA.UM.7.6.r1-05500-89xx.0"
            sync-j="4" />
 
 <remote    name="sacred"
