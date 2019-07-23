@@ -13,6 +13,10 @@
            fetch="https://github.com/SacredOS-CAF"
            revision="9.0" />
 
+<remote    name="sacred-fork"
+           fetch="https://github.com/JarlPenguin"
+           revision="9.0" />
+
 <remote    name="derp"
            fetch="https://github.com/Derp-CAF"
            revision="p" />
